@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+pypdf
+chromadb
+faiss-cpu
+bs4
